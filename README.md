@@ -1,4 +1,4 @@
-# synthgen — Générateur de données synthétiques
+# synthgen - Générateur de données synthétiques
 
 ## Contexte
 
